@@ -1,4 +1,4 @@
-package StockExchangeLoses;
+package Medium.StockExchangeLoses;
 
 import java.util.ArrayList;
 import java.util.Scanner;
