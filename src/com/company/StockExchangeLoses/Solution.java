@@ -1,8 +1,11 @@
+package StockExchangeLoses;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
+ * https://www.codingame.com/training/medium/stock-exchange-losses
+ *
  * The Goal
  * A finance company is carrying out a study on the worst stock investments and would like to acquire a program to do so.
  * The program must be able to analyze a chronological series of stock values in order to show the largest loss that it
